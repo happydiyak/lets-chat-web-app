@@ -1,0 +1,16 @@
+body{
+	background-color: pink;
+}
+#user_name{
+	width: 50%;
+}
+h1{
+	font-family: 'Courier New', Courier, monospace;
+}
+hr{
+	width: 70%;
+	
+}
+#login_img{
+	width: 90px;
+}
